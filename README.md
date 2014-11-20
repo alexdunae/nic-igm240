@@ -1,10 +1,10 @@
-# IGM 240 - Project Layouts
+# IGM 240
 
 Slides generated with https://github.com/jdan/cleaver.
 
 To run:
 
-    `cleaver watch project-layout.md`
+    cleaver watch project-layout.md
 
 ## Copyright
 
